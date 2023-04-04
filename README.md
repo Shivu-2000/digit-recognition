@@ -7,5 +7,5 @@ This repo consist of python programs to classify the handwritten digits in 0-9 r
 * With Kernel = 'rbf' accuracy of 99.17%
 * With Kernel = 'linear' accuracy of 98.61%
 
-##3. Random Forest Classifier
+## 3. Random Forest Classifier
 * With accuracy of 97.41%
